@@ -1,6 +1,8 @@
 # Bootcamp Project 1
 
-This is the collaborative project for our 1/3rd progress marker!
+A webapp utilizing async / await, regex culling, and multiple APIs to automatically build you a spotify playlist out of a movie's soundtrack.
+
+Try it out! Be sure to authorize with spotify first, click the link on page.
 
 ## Authors
 
