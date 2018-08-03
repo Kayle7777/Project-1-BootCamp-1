@@ -1,4 +1,4 @@
-# Bootcamp Project 1
+# Any movie soundtrack with one click!
 
 A webapp utilizing async / await, regex culling, and multiple APIs to automatically build you a spotify playlist out of a movie's soundtrack.
 
