@@ -13,8 +13,8 @@ Try it out! Be sure to authorize with spotify first, click the link on page.
 
 ## Links
 
-* Code repository, hosted on [Github][github Repo]
-* Live webpage, hosted on [Github Pages][github Pages]
+* **Code repository** - hosted on [Github][github Repo]
+* **Live webpage** - hosted on [Github Pages][github Pages]
 
 [github Repo]: https://github.com/Kayle7777/Project-1-BootCamp-1/
 [github Pages]: https://kayle7777.github.io/Project-1-BootCamp-1/
