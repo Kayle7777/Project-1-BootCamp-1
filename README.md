@@ -13,6 +13,8 @@ Try it out! Be sure to authorize with spotify first, click the link on page.
 
 ## Notable Concepts / Technologies Used
 
+* **jQuery / ajax**
+
 * **API authorization using URI tokens, localStorage handler**
 
 * **Async / Await functions**
