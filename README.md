@@ -23,6 +23,8 @@ Try it out! Be sure to authorize with spotify first, click the link on page.
 
 * **Page scraping for data**
 
+* **Bootstrap**
+
 ## Links
 
 * **Code repository** - hosted on [Github][github Repo]
