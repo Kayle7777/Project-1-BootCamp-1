@@ -11,6 +11,16 @@ Try it out! Be sure to authorize with spotify first, click the link on page.
 * **V'ana Abbott** - *Collaboration on front-end design with Amanda* - [vana-abbott](https://github.com/vana-abbott)
 * **Corey Mitchell** - *Collaboration on IMDB webscrape, comments section* - [corey-mitchell](https://github.com/corey-mitchell)
 
+## Notable Concepts / Technologies Used
+
+* **API authorization using URI tokens, localStorage handler**
+
+* **Async / Await functions**
+
+* **Regex string editing**
+
+* **Page scraping for data**
+
 ## Links
 
 * **Code repository** - hosted on [Github][github Repo]
