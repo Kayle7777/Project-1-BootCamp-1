@@ -11,19 +11,23 @@ Try it out! Be sure to authorize with spotify first, click the link on page.
 * **V'ana Abbott** - *Collaboration on front-end design with Amanda* - [vana-abbott](https://github.com/vana-abbott)
 * **Corey Mitchell** - *Collaboration on IMDB webscrape, comments section* - [corey-mitchell](https://github.com/corey-mitchell)
 
+* ****
+
 ## Notable Concepts / Technologies Used
 
-* **jQuery / ajax**
+* *jQuery / ajax*
 
-* **API authorization using URI tokens, localStorage handler**
+* *API authorization using URI tokens, localStorage handler*
 
-* **Async / Await functions**
+* *Async / Await functions*
 
-* **Regex string editing**
+* *Regex string editing*
 
-* **Page scraping for data**
+* *Page scraping for data*
 
-* **Bootstrap**
+* *Bootstrap*
+
+* ****
 
 ## Links
 
